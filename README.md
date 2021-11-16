@@ -11,3 +11,5 @@ Cross validation technique: CV Score
                              Grid Search CV
 Distribution plot (sns.distplot()) used to plot the distribution of data                           
 The seaborn.distplot() function accepts the data variable as an argument and returns the plot with the density distribution.
+
+Thank you!
